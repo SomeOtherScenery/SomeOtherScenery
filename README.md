@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently working on some project in need of imu and blender python api. 
 
 <!--
 **SomeOtherScenery/SomeOtherScenery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
